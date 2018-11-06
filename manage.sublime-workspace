@@ -1,0 +1,512 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"w",
+				"width"
+			],
+			[
+				"b",
+				"bold"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"p",
+				"no-drop"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"s",
+				"src\tAttr"
+			],
+			[
+				"emplo",
+				"employee_views"
+			],
+			[
+				"empl",
+				"employee"
+			],
+			[
+				"acc",
+				"account"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"f",
+				"first_app"
+			],
+			[
+				"cont",
+				"context"
+			],
+			[
+				"r",
+				"return"
+			],
+			[
+				"b_",
+				"b_title"
+			],
+			[
+				"de",
+				"def\tFunction"
+			],
+			[
+				"for",
+				"forms"
+			],
+			[
+				"a",
+				"all_clean_data"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"c",
+				"choices"
+			],
+			[
+				"con",
+				"contacts"
+			],
+			[
+				"page",
+				"page-link"
+			],
+			[
+				"Pa",
+				"PageNotAnInteger"
+			],
+			[
+				"name",
+				"name_dict"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"T",
+				"TEMPLATES"
+			],
+			[
+				"da",
+				"date_dict"
+			],
+			[
+				"po",
+				"populate"
+			],
+			[
+				"fake",
+				"fake_date"
+			],
+			[
+				"web",
+				"webpg"
+			],
+			[
+				"ge",
+				"get_or_create"
+			],
+			[
+				"fa",
+				"fake_name"
+			],
+			[
+				"fake_",
+				"fake_url"
+			],
+			[
+				"C",
+				"CharField"
+			],
+			[
+				"contact",
+				"contactForm"
+			],
+			[
+				"EMAIL_",
+				"EMAIL_HOST"
+			],
+			[
+				"co",
+				"contactForm"
+			],
+			[
+				"bold",
+				"bolder"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"profile",
+				"profileAdmin"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/templates/base.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/static/css/style.css",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/templates/main/footer.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/templates/categories/components/index.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/templates/main/index.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/templates/main/navbar.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/templates/categories/video_games/index.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/templates/categories/storage_and_media/index.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/templates/categories/software/index.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/templates/categories/networking/index.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/templates/categories/modems/index.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/templates/categories/input_devices/index.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/templates/categories/hardware/index.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/templates/categories/computer_memory/index.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/templates/categories/computer_accessories/index.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/tips/views.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/pcmatter/urls.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/main/urls.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/shop/views.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/templates/shop/index.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/templates/tips/index.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/pcmatter/settings.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/howto/views.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/templates/gadgets/index.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/gadgets/views.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/templates/howto/index.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/technology/views.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/templates/technology/index.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/templates/index.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/static/css/style.css",
+		"/Users/nicachipal/Desktop/DjangoProjects/tryTen/src/profiles/templates/base.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/tryTen/src/profiles/templates/navbar.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/MyDjangoEnv/third_project/templates/first_app/base.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/templates/main/tips.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/templates/main/how-to.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/templates/main/shop.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/main/views.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/templates/main/gadgets.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/templates/main/navbar.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/templates/base.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/categories/views.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/categories/models.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/categories/admin.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/main/urls.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/main/views.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/electro/urls.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/templates/main/index.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/electro/settings.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/templates/first_app/base.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/MyDjangoEnv/first_project/templates/first_app/index.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/MyDjangoEnv/second_project/templates/first_app/base.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/electro/wsgi.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/templates/main/about.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/templates/main/request_manpower.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/templates/employee/employment.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/templates/main/whyus.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/templates/main/policies.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/employee/views.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/employee/forms.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/main/models.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/employee/urls.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/main/forms.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/MyDjangoEnv/third_project/first_app/models.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/MyDjangoEnv/third_project/first_app/forms.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/employee/models.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/templates/main/users.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/templates/employee/users.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/MyDjangoEnv/second_project/static/css/style.css",
+		"/Users/nicachipal/Desktop/DjangoProjects/MyDjangoEnv/second_project/first_app/views.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/MyDjangoEnv/second_project/first_app/models.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/employee/admin.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/MyDjangoEnv/second_project/first_app/admin.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/MyDjangoEnv/fourth_project/first_app/models.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/templates/accounts/login.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/tryTen/src/contact/views.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/templates/main/employment.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/accounts/views.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/tryTen/src/contact/templates/contact.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/accounts/forms.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/accounts/urls.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/templates/main/base.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/clients/forms.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/clients/urls.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/tryTen/src/tryTen/urls.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/clients/views.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/account/views.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/account/urls.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/templates/clients/request_manpower.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/templates/account/login.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/templates/clients/index.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/templates/clients/base.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/tryTen/src/tryTen/settings.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/templates/clients/navbar.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/tryTen/src/contact/forms.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/templates/clients/about.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/templates/clients/whyus.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/templates/clients/carouselhiden.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/templates/clients/category/components/index.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/templates/clients/employment.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/static/css/jumbotron.css",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/static/js/jquery-3.3.1.js",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/templates/clients/navbar_2.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/templates/first_app/navbar.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/ElectroEnv/electro/templates/clients/services.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/MyDjangoEnv/second_project/second_project/urls.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/MyDjangoEnv/second_project/first_app/urls.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/MyDjangoEnv/first_project/first_app/urls.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/MyDjangoEnv/first_project/first_app/views.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/MyDjangoEnv/third_project/first_app/views.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/MyDjangoEnv/third_project/third_project/settings.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/templates/first_app/index.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/first_app/views.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/first_app/urls.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/templates/first_app/category/components/index.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/first_app/models.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/templates/first_app/category/storage_and_media/index.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/templates/first_app/category/software/index.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/templates/first_app/category/networking/index.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/templates/first_app/category/modems/index.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/templates/first_app/category/input_devices/index.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/templates/first_app/category/hardware/index.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/templates/first_app/category/computer_memory/index.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/templates/first_app/category/computer_accessories/index.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/PCmatterEnv/pcmatter/first_app/admin.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/MyDjangoEnv/third_project/templates/first_app/users.html",
+		"/Users/nicachipal/Desktop/DjangoProjects/MyDjangoEnv/third_project/first_app/admin.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/MyDjangoEnv/first_project/first_project/settings.py",
+		"/Users/nicachipal/Desktop/DjangoProjects/MyDjangoEnv/third_project/first_app/urls.py"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "manage.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"activo"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 226.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
