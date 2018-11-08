@@ -1,6 +1,5 @@
 <!doctype html>
 <html lang="en">
-{% load staticfiles %}
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -8,13 +7,13 @@
     <meta name="author" content="">
     <link rel="icon" href="../../../../favicon.ico">
 
-    <title>Album example for Bootstrap</title>
+    <title>Nicachipal's Blog</title>
 
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 
   </head>
- 
+
   <body>
 
     <header>
@@ -25,38 +24,38 @@
 		  </button>
 		  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
 		    <div class="navbar-nav ml-auto">
-		      <a class="nav-item nav-link" href="http://twitter.com/nicachipal">Twitter</a>
-		      <a class="nav-item nav-link" href="{% static 'resume.pdf' %}" target="_blank">Resume</a>
-		      <a class="nav-item nav-link" href="{% url 'allblogs' %}">Blog</a>
+		      <a class="nav-item nav-link" href="http://twitter.com/nicachipal" target="_blank">Twitter</a>
+		      <a class="nav-item nav-link" href="#">Resume</a>
+		      <a class="nav-item nav-link active" href="#">Blog</a>
 		     </div>
 		   </div>
 	  </nav>
     </header>
 
     <main role="main">
+      <div class="container">
+         <h1 class="text-center pt-3">Welcome to Nicachipal's Blog</h1>
+         <br/>
+         <br/>
+         <h2>Latest Posts</h2>
+         <hr/>
+       </div><!-- End div class="container" -->
+     </main>
 
-      <section class="jumbotron text-center">
-        <div class="container">
-          <h1 class="jumbotron-heading">Hi, this is Nicachipal</h1>
-          <p class="lead text-muted">This is one of the coolest websites where you will enjoy all kind of videos as well as funny and interesting images.</p>
-          <p>
-            <a href="mailto:nicachipal@gmail.com" class="btn btn-primary my-2">Email me</a>
-          </p>
-          <img src="{% static 'nic.png' %}" />
-        </div>
-      </section>
-
-      <div class="album py-5 bg-light">
+     <div class="album py-5 bg-light">
         <div class="container">
 
           <div class="row">
 
-          	{% for job in jobs.all %}
+            {% for blog in blogs.all %}
             <div class="col-md-4">
               <div class="card mb-4 shadow-sm">
-                <img class="card-img-top" src="{{ job.image.url }}" />
+                <img class="card-img-top img-fluid" src="{{ blog.image.url }}" />
                 <div class="card-body">
-                  <p class="card-text">{{job.summary}}</p>              
+                  <h4 class="card-text"><a href="{% url 'detail' blog.id %}">{{blog.title}}</a></h4>
+                  {{ blog.pub_date_pretty}} 
+                  <br/>
+                  <p>{{ blog.summary}}</p>             
                 </div><!-- End class="card-body" -->
               </div><!-- End class="card mb-4 shadow-sm" -->
              </div><!-- End class="col-md-4" -->  
@@ -65,8 +64,6 @@
             </div><!-- End class="row" -->
           </div><!-- End class="container" -->
         </div><!-- End class="album py-5 bg-light" -->
-
-    </main>
 
     <footer class="text-muted">
       <div class="container text-center">
